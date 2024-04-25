@@ -24,6 +24,7 @@ To run this application, compile and execute the `Main.java`. It requires no com
 - **src/First/PersonOperationHelper.java**: Provides functionality to convert lines of text into `Person` objects.
 - **src/First/people.txt**: Text file containing semi-colon separated values representing people.
 
+Files:
 - 📁 **src**
   - 📁 **com**
     - 📁 **company**
